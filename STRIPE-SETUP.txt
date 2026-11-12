@@ -1,0 +1,14 @@
+GETMYTRADECONTENT — COMPLETE WEBSITE
+
+Extract this ZIP and open index.html to view locally. Upload the contents of this folder to your hosting/GitHub repository to update the site. Keep all folders together.
+
+Included: all ten trade pages, the £69 upgrade page, branding brief, exterior-cleaning Google Drive delivery page and all assets. Call and WhatsApp use 07367 856186. Branding briefs open WhatsApp for the customer to send.
+
+LAUNCH SETTINGS STILL REQUIRED
+Google Drive public access was verified: the redesigned ZIP opens signed out with a Download button.
+In Stripe, set the £29 payment link After payment redirect to https://getmytradecontent.co.uk/make-it-mine.html?trade=exterior-cleaning
+Set the £69 payment link redirect to https://getmytradecontent.co.uk/youre-sorted.html?trade=exterior-cleaning
+The No thanks link on the upgrade page leads to download-exterior-cleaning.html.
+Exterior-cleaning checkout is enabled in config.js. Other trade editions remain unavailable. Configure both Stripe redirects above before accepting orders.
+
+This is shared-link delivery. It does not authenticate buyers or email download links automatically. No Stripe account settings were changed by these website files.

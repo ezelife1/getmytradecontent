@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /youre-sorted.html
+Sitemap: https://getmytradecontent.co.uk/sitemap.xml

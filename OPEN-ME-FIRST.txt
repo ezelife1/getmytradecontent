@@ -1,0 +1,3 @@
+Extract the entire ZIP first. Open START-HERE.html in Safari, Chrome or Edge. Do not open pages inside the compressed ZIP or in Quick Look. Each main page is self-contained and works with a file:// URL. For hosting, upload this folder’s contents. The original clean trade-directory routes are included too.
+
+Stripe payment redirects still need setting in your account as described in STRIPE-SETUP.txt.
